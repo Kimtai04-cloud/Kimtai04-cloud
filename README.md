@@ -1,5 +1,5 @@
 
-   ##Caleb Kimtai
+   Caleb Kimtai
    
    Tech enthusiast with a passion for Systems and Graphics programming. 
    Skilled in C and C++, I love Linux and I have delved deeper into understanding it's kernel, 
@@ -7,8 +7,8 @@
    Always eager to share knowledge and collaborate on exciting projects!
    
    - Pronouns: he/him
-   -................
-   -Phone number: 0742060295
+   ................
+   Phone number: 0742060295
      
 
 <!---
