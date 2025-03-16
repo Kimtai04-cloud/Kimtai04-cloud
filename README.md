@@ -7,8 +7,8 @@
    Always eager to share knowledge and collaborate on exciting projects!
    
    - Pronouns: he/him
-   ................
-   Phone number: 0742060295
+   -................
+   -Phone number: 0742060295
      
 
 <!---
