@@ -1,8 +1,5 @@
 
-   Caleb Kimtai
-   
-   Tech enthusiast with a passion for Systems and Graphics programming. 
-   Skilled in C and C++, I love Linux and I have delved deeper into understanding it's kernel, 
+   Tech **enthusiast** have delved deeper into understanding it's kernel, 
    I also enjoy teaching and breaking down complex concepts for others.   
    Always eager to share knowledge and collaborate on exciting projects!
    
