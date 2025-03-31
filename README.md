@@ -6,11 +6,11 @@
 
 ## <ins>About Me</ins>
 
-Tech enthusiast passionate💥 in graphics and systems programming. I'm a skilled C and C++ developer with a deep love for AI and Linux. I enjoy explaining complex concepts to others and making technology accessible for everyone.
+Tech enthusiast passionate💥 in graphics and systems programming. I'm a skilled C language developer with a deep love for AI and Linux. I enjoy explaining complex concepts to others and making technology accessible for everyone.
 
 ## <ins>Skills</ins>
 
-- **Programming Languages:** C, C++
+- **Programming Languages:** C
 - **Areas of Interest:** Graphics Programming, Systems Programming, Artificial Intelligence, Linux
 - **Other Skills:** Explaining complex concepts in an easy-to-understand way.
 
