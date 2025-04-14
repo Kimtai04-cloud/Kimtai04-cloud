@@ -10,7 +10,7 @@ Tech enthusiast passionate💥 in graphics and systems programming. I'm a skille
 
 ## <ins>Skills</ins>
 
-- **Programming Languages:** C
+- **Programming Languages:** C currently developing Rust skills
 - **Areas of Interest:** Graphics Programming, Systems Programming, Artificial Intelligence, Linux
 - **Other Skills:** Explaining complex concepts in an easy-to-understand way.
 
